@@ -2,4 +2,4 @@ streamlit
 numpy
 matplotlib
 PIL
-opencv-python-headless
+opencv
