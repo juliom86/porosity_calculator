@@ -3,3 +3,4 @@ cv2
 numpy
 matplotlib
 PIL
+opencv-python-headless
